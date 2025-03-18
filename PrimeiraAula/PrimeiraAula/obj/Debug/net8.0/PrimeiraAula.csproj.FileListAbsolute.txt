@@ -1,0 +1,14 @@
+C:\Users\guipa\OneDrive\Documentos\dotnet\PrimeiraAula\PrimeiraAula\bin\Debug\net8.0\PrimeiraAula.exe
+C:\Users\guipa\OneDrive\Documentos\dotnet\PrimeiraAula\PrimeiraAula\bin\Debug\net8.0\PrimeiraAula.deps.json
+C:\Users\guipa\OneDrive\Documentos\dotnet\PrimeiraAula\PrimeiraAula\bin\Debug\net8.0\PrimeiraAula.runtimeconfig.json
+C:\Users\guipa\OneDrive\Documentos\dotnet\PrimeiraAula\PrimeiraAula\bin\Debug\net8.0\PrimeiraAula.dll
+C:\Users\guipa\OneDrive\Documentos\dotnet\PrimeiraAula\PrimeiraAula\bin\Debug\net8.0\PrimeiraAula.pdb
+C:\Users\guipa\OneDrive\Documentos\dotnet\PrimeiraAula\PrimeiraAula\obj\Debug\net8.0\PrimeiraAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guipa\OneDrive\Documentos\dotnet\PrimeiraAula\PrimeiraAula\obj\Debug\net8.0\PrimeiraAula.AssemblyInfoInputs.cache
+C:\Users\guipa\OneDrive\Documentos\dotnet\PrimeiraAula\PrimeiraAula\obj\Debug\net8.0\PrimeiraAula.AssemblyInfo.cs
+C:\Users\guipa\OneDrive\Documentos\dotnet\PrimeiraAula\PrimeiraAula\obj\Debug\net8.0\PrimeiraAula.csproj.CoreCompileInputs.cache
+C:\Users\guipa\OneDrive\Documentos\dotnet\PrimeiraAula\PrimeiraAula\obj\Debug\net8.0\PrimeiraAula.dll
+C:\Users\guipa\OneDrive\Documentos\dotnet\PrimeiraAula\PrimeiraAula\obj\Debug\net8.0\refint\PrimeiraAula.dll
+C:\Users\guipa\OneDrive\Documentos\dotnet\PrimeiraAula\PrimeiraAula\obj\Debug\net8.0\PrimeiraAula.pdb
+C:\Users\guipa\OneDrive\Documentos\dotnet\PrimeiraAula\PrimeiraAula\obj\Debug\net8.0\PrimeiraAula.genruntimeconfig.cache
+C:\Users\guipa\OneDrive\Documentos\dotnet\PrimeiraAula\PrimeiraAula\obj\Debug\net8.0\ref\PrimeiraAula.dll

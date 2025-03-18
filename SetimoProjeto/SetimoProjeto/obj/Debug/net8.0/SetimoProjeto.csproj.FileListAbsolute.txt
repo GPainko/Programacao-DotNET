@@ -1,0 +1,14 @@
+C:\Users\guipa\OneDrive\Documentos\dotnet\SetimoProjeto\SetimoProjeto\bin\Debug\net8.0\SetimoProjeto.exe
+C:\Users\guipa\OneDrive\Documentos\dotnet\SetimoProjeto\SetimoProjeto\bin\Debug\net8.0\SetimoProjeto.deps.json
+C:\Users\guipa\OneDrive\Documentos\dotnet\SetimoProjeto\SetimoProjeto\bin\Debug\net8.0\SetimoProjeto.runtimeconfig.json
+C:\Users\guipa\OneDrive\Documentos\dotnet\SetimoProjeto\SetimoProjeto\bin\Debug\net8.0\SetimoProjeto.dll
+C:\Users\guipa\OneDrive\Documentos\dotnet\SetimoProjeto\SetimoProjeto\bin\Debug\net8.0\SetimoProjeto.pdb
+C:\Users\guipa\OneDrive\Documentos\dotnet\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guipa\OneDrive\Documentos\dotnet\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.AssemblyInfoInputs.cache
+C:\Users\guipa\OneDrive\Documentos\dotnet\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.AssemblyInfo.cs
+C:\Users\guipa\OneDrive\Documentos\dotnet\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\guipa\OneDrive\Documentos\dotnet\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.dll
+C:\Users\guipa\OneDrive\Documentos\dotnet\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\refint\SetimoProjeto.dll
+C:\Users\guipa\OneDrive\Documentos\dotnet\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.pdb
+C:\Users\guipa\OneDrive\Documentos\dotnet\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.genruntimeconfig.cache
+C:\Users\guipa\OneDrive\Documentos\dotnet\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\ref\SetimoProjeto.dll

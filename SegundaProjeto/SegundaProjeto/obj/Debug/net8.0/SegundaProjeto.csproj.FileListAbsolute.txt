@@ -1,0 +1,14 @@
+C:\Users\guipa\OneDrive\Documentos\dotnet\SegundaProjeto\SegundaProjeto\bin\Debug\net8.0\SegundaProjeto.exe
+C:\Users\guipa\OneDrive\Documentos\dotnet\SegundaProjeto\SegundaProjeto\bin\Debug\net8.0\SegundaProjeto.deps.json
+C:\Users\guipa\OneDrive\Documentos\dotnet\SegundaProjeto\SegundaProjeto\bin\Debug\net8.0\SegundaProjeto.runtimeconfig.json
+C:\Users\guipa\OneDrive\Documentos\dotnet\SegundaProjeto\SegundaProjeto\bin\Debug\net8.0\SegundaProjeto.dll
+C:\Users\guipa\OneDrive\Documentos\dotnet\SegundaProjeto\SegundaProjeto\bin\Debug\net8.0\SegundaProjeto.pdb
+C:\Users\guipa\OneDrive\Documentos\dotnet\SegundaProjeto\SegundaProjeto\obj\Debug\net8.0\SegundaProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guipa\OneDrive\Documentos\dotnet\SegundaProjeto\SegundaProjeto\obj\Debug\net8.0\SegundaProjeto.AssemblyInfoInputs.cache
+C:\Users\guipa\OneDrive\Documentos\dotnet\SegundaProjeto\SegundaProjeto\obj\Debug\net8.0\SegundaProjeto.AssemblyInfo.cs
+C:\Users\guipa\OneDrive\Documentos\dotnet\SegundaProjeto\SegundaProjeto\obj\Debug\net8.0\SegundaProjeto.csproj.CoreCompileInputs.cache
+C:\Users\guipa\OneDrive\Documentos\dotnet\SegundaProjeto\SegundaProjeto\obj\Debug\net8.0\SegundaProjeto.dll
+C:\Users\guipa\OneDrive\Documentos\dotnet\SegundaProjeto\SegundaProjeto\obj\Debug\net8.0\refint\SegundaProjeto.dll
+C:\Users\guipa\OneDrive\Documentos\dotnet\SegundaProjeto\SegundaProjeto\obj\Debug\net8.0\SegundaProjeto.pdb
+C:\Users\guipa\OneDrive\Documentos\dotnet\SegundaProjeto\SegundaProjeto\obj\Debug\net8.0\SegundaProjeto.genruntimeconfig.cache
+C:\Users\guipa\OneDrive\Documentos\dotnet\SegundaProjeto\SegundaProjeto\obj\Debug\net8.0\ref\SegundaProjeto.dll

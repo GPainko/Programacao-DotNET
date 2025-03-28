@@ -1,4 +1,7 @@
-﻿namespace Atividade_classe_atributo
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Runtime.Intrinsics.X86;
+
+namespace Atividade_classe_atributo
 {
     internal class Program
     {
@@ -95,6 +98,62 @@
             Console.WriteLine("Marca: " + carro2.marca);
             Console.WriteLine("Modelo = " + carro2.modelo);
             Console.WriteLine("Ano de Fabricação = " + carro2.anoFabricacao);
+            Console.WriteLine("-------------------------");
+
+            // 4 - Crie uma classe Livro com os atributos título, autor e ano de publicação.
+            // Faça a instanciação de 3 objetos e imprima as informações do livro na tela.
+
+            Livro livro1 = new Livro();
+            Livro livro2 = new Livro();
+            Livro livro3 = new Livro();
+
+
+            Console.WriteLine("Digite a Titulo do livro:");
+            livro1.titulo = Console.ReadLine();
+
+            Console.WriteLine("Digite o autor do livro:");
+            livro1.autor = Console.ReadLine();
+
+            Console.WriteLine("Digite o ano de publicação do livro:");
+            livro1.anoPublicacao = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("-------------------------");
+            Console.WriteLine("Livro 1:");
+            Console.WriteLine("Titulo: " + livro1.titulo);
+            Console.WriteLine("Autor = " + livro1.autor);
+            Console.WriteLine("Ano de Publicação = " + livro1.anoPublicacao);
+            Console.WriteLine("-------------------------");
+
+            Console.WriteLine("Digite a Titulo do livro:");
+            livro2.titulo = Console.ReadLine();
+
+            Console.WriteLine("Digite o autor do livro:");
+            livro2.autor = Console.ReadLine();
+
+            Console.WriteLine("Digite o ano de publicação do livro:");
+            livro2.anoPublicacao = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("-------------------------");
+            Console.WriteLine("Livro 2:");
+            Console.WriteLine("Titulo: " + livro2.titulo);
+            Console.WriteLine("Autor = " + livro2.autor);
+            Console.WriteLine("Ano de Publicação = " + livro2.anoPublicacao);
+            Console.WriteLine("-------------------------");
+
+            Console.WriteLine("Digite a Titulo do livro:");
+            livro3.titulo = Console.ReadLine();
+
+            Console.WriteLine("Digite o autor do livro:");
+            livro3.autor = Console.ReadLine();
+
+            Console.WriteLine("Digite o ano de publicação do livro:");
+            livro3.anoPublicacao = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("-------------------------");
+            Console.WriteLine("Livro 3:");
+            Console.WriteLine("Titulo: " + livro3.titulo);
+            Console.WriteLine("Autor = " + livro3.autor);
+            Console.WriteLine("Ano de Publicação = " + livro3.anoPublicacao);
             Console.WriteLine("-------------------------");
 
         }
